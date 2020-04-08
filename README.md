@@ -4,7 +4,7 @@ Primarily focused on Front end.
 
 ## To run the project locally
 - npm install
--npm run react-dev
+- npm run react-dev
 - npm run seed
 
   
